@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
-.para{
+.selector{
  color:#00f;
  background-color:#eee;
- font-family:Arial;
+ font-family:Arial, sans-serif;
  font-size:20px;
 }
